@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{6CD85EB1-71E2-4D8F-B125-FB5CB101A701}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BowlingGameClassic/Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BowlingGameClassic/Game.cs">
     <Files>
-      <File FileName="BowlingGameClassic/Test.cs" Line="1" Column="1" />
+      <File FileName="BowlingGameClassic/Test.cs" Line="14" Column="1" />
+      <File FileName="BowlingGameClassic/Game.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
