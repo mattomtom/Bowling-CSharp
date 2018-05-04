@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1E4BFE9A-3AF6-41DE-AB77-0B093B8C9669}</ProjectGuid>
+    <ProjectGuid>{6CD85EB1-71E2-4D8F-B125-FB5CB101A701}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>BowlingGameClassic</RootNamespace>
     <AssemblyName>BowlingGameClassic</AssemblyName>
